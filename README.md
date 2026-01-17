@@ -1,4 +1,4 @@
-<img align="right" width="350" src="<img align="right" width="350" src="programmer.png">
+<img align="right" width="350" src="programmer.png">
 ## 👋 Hey there, I'm Mohammad Umar
 
 ### CSE Grad | Software Engineer | Full-Stack Developer
