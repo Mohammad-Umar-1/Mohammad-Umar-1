@@ -49,3 +49,6 @@
 ![OOP](https://img.shields.io/badge/OOP-Java-green)
 ![DBMS](https://img.shields.io/badge/DBMS-Database-orange)
 ![Agile](https://img.shields.io/badge/Agile-SDLC-yellow)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java,python,kotlin,django,html,css,tailwind,react,nextjs,nodejs,express,mongodb,mysql,postgres,git,github,docker,aws,linux,vscode,postman,npm&perline=9" />
+</p>
